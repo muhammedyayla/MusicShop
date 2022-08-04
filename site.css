@@ -1,0 +1,53 @@
+.musicShopTitle {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(223, 5, 5);
+    text-align: center;
+    margin-bottom: 1em;
+}
+.infoBar {
+    text-align: center;
+    color: rgb(203, 0, 0);
+    padding: 0.5em;
+    margin-bottom: 1em;
+}
+.anasayfatxt {
+    font-size: 1em;
+    color: black;
+    text-align: center;
+    margin-bottom: 1em;
+}
+.anasayfaTitleTwo {
+    color: purple;
+    text-align: center;
+    margin-bottom: 1em;
+}
+.anasayfaList {
+    text-align: center;
+    margin-bottom: 1em;
+    list-style-position: inside;
+}
+.img1 {
+    width: 200px;
+    height: 250px;
+    align-items: inherit;
+    
+}
+.img2 {
+    width: 200px;
+    height: 250px;
+    align-items: inherit;
+    
+}
+.img3 {
+    width: 200px;
+    height: 250px;
+    align-items: inherit;
+    
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
